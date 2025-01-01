@@ -2,7 +2,7 @@
 Magic 8 Ball is an application that allows you to ask any question to the "Magic Ball"
 In response to your question "Magic Ball" randomly selecting an answer. 
 
-You can see this project here: https://szymonsauer.github.io/weather-app/
+You can see this project here: https://szymonsauer.github.io/magic-8ball/
 
 * [General info](#general-info)
 * [Technologies](#technologies)
